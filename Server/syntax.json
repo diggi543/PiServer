@@ -1,0 +1,21 @@
+// Try to aunthenticate
+{
+	"login": "user",
+	"password": "123"
+}
+
+// Successfully authenticate
+{
+	"auth": true
+}
+
+// Failed authenticate
+{
+	"auth": false
+}
+
+// Send command
+{
+	"command": "getInfo"
+}
+
